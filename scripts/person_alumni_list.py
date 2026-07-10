@@ -23,7 +23,7 @@ def get_alumni_list(hid: str, sid: str, cursor: str = None) -> dict:
     params = {'hid': hid, 'sid': sid}
     if cursor:
         params['cursor'] = cursor
-    response = make_request('/agent/search/person/alumni/list', params)
+    response = make_request('/agent/search/depth_company/person/alumni/list', params)
     return response
 
 

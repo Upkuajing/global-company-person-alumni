@@ -1,7 +1,7 @@
 ---
 name: global-company-person-alumni
 description: Official skill for upkuajing (跨境魔方). Query alumni list (校友列表) from the global company database (全球企业库). Get alumni information including person IDs and school IDs, with cursor-based pagination.
-metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Alumni Query

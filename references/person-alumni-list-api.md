@@ -1,7 +1,7 @@
 # 全球企业库校友列表 API 参考
 
 > 根据人物ID和学校ID获取某人的校友信息，支持游标翻页。
-> 接口路径：`POST /agent/search/person/alumni/list`
+> 接口路径：`POST /agent/search/depth_company/person/alumni/list`
 
 ## python脚本参数
 
