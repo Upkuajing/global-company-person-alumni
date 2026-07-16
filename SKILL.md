@@ -1,7 +1,7 @@
 ---
 name: global-company-person-alumni
 description: "Find corporate alumni and former colleagues with company ID and personnel ID. Trace career history and expand professional networks for recruitment and B2B lead development.\n\nTrigger: corporate alumni search, find former coworkers, career‑history lookup, B2B network expansion, talent sourcing from alumni groups"
-metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Alumni Query
