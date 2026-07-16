@@ -1,7 +1,7 @@
 ---
 name: global-company-person-alumni
-description: Official skill for upkuajing (跨境魔方). Query alumni list (校友列表) from the global company database (全球企业库). Get alumni information including person IDs and school IDs, with cursor-based pagination.
-metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Find corporate alumni and former colleagues with company ID and personnel ID. Trace career history and expand professional networks for recruitment and B2B lead development.\n\nTrigger: corporate alumni search, find former coworkers, career‑history lookup, B2B network expansion, talent sourcing from alumni groups"
+metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🎓","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Global Company Person Alumni Query
@@ -156,3 +156,6 @@ Other UpKuaJing skills you might find useful:
 - upkuajing-global-company-people-search — Unified company and people search across all sources
 - upkuajing-customs-trade-company-search — Search customs trade companies
 - upkuajing-contact-info-validity-check — Check contact info validity
+- phone-validity-check — Check phone number validity
+- email-validity-check — Check email address validity
+- domain-validity-check — Check domain validity and security
